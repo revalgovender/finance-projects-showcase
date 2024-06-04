@@ -6,3 +6,4 @@ engineer using Python.
 ##  📈 Data Visualisation
 
 1.  [Static 2D Plotting with `matplotlib`](static-2d-plotting.ipynb)
+1.  [Financial Time Series with `numpy`](financial-time-series.ipynb)
